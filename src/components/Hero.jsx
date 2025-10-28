@@ -4,9 +4,9 @@ export default function Hero() {
   return (
     <div
       style={{ backgroundImage: `url(${ImageHero})` }}
-      className="w-full h-[130vh] bg-cover bg-no-repeat relative flex justify-center items-center"
+      className="w-full h-[50vh] lg:h-[110vh] bg-cover bg-no-repeat relative flex justify-center items-center"
     >
-      <div className="absolute backdrop-blur-sm top-2 left-28 lg:top-40 lg:backdrop-blur-0">
+      <div className="absolute lg:left-10 max-md:w-[70%] backdrop-blur-[3px] lg:backdrop-blur-0">
         <div>
           <h4>We've got your morning covered with</h4>
         </div>
