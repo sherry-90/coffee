@@ -2,6 +2,7 @@ import  Header from "./components/Header"
 import Hero from "./components/Hero"
 import Banner from "./components/Banner"
 import Menu from "./components/Menu";
+import WhyUs from "./components/WhyUs";
 
 export default function App() {
   return (
@@ -10,6 +11,7 @@ export default function App() {
       <Hero />
       <Banner />
       <Menu />
+      <WhyUs/>
     </div>
   )
 }
