@@ -3,6 +3,7 @@ import Hero from "./components/Hero"
 import Banner from "./components/Banner"
 import Menu from "./components/Menu";
 import WhyUs from "./components/WhyUs";
+import CoffeeBanner from "./components/CoffeeBanner";
 
 export default function App() {
   return (
@@ -12,6 +13,7 @@ export default function App() {
       <Banner />
       <Menu />
       <WhyUs/>
+      <CoffeeBanner/>
     </div>
   )
 }

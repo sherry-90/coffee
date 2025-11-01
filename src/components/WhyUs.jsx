@@ -13,7 +13,7 @@ export default function WhyUs() {
           className="absolute right-0 top-[-80px] w-[30vh] lg:w-[50vh]"
         />
       </div>
-      <div className="my-20 p-5 max-w-6xl mx-auto">
+      <div className="my-5 p-5 max-w-6xl mx-auto">
         <div className="text-center p-4 ">
           <h2 className="text-4xl text-amber-950">Why are we different?</h2>
           <p className="text-sm text-gray-600 my-2">
@@ -50,7 +50,7 @@ export default function WhyUs() {
             </p>
           </div>
         </div>
-        <div className="text-center p-4 my-4">
+        <div className="text-center p-4 my-1">
           <p className="text-gray-700 text-sm my-2">
             Great ideas start with great coffee, let's help you achieve that.
           </p>
