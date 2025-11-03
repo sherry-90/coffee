@@ -30,7 +30,7 @@ export default function Header() {
             </ul>
           </div>
           <div className="flex">
-            <button className="mx-2 hidden bg-cream px-4 py-2 rounded-3xl text-gray-950 lg:block">
+            <button className="mx-2 hidden bg-white px-4 py-2 rounded-3xl text-gray-950 lg:block">
               Sign Up
             </button>
             <button className="hidden mx-2 lg:block">Sign In</button>

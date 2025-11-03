@@ -16,7 +16,7 @@ const coffeeMenu = [
     id: 2,
     name: "Latte",
     image: image2,
-    price: 4.0,
+    price: 4.5,
     ingredients: ["Espresso", "steamed milk"],
     description: "Smooth latte topped with beautiful milk art."
   },
@@ -32,7 +32,7 @@ const coffeeMenu = [
     id: 4,
     name: "Espresso",
     image: image4,
-    price: 5.0,
+    price: 5.5,
     ingredients: ["Vanilla ice cream", "hot espresso"],
     description: "Italian dessert with espresso poured over ice cream."
   },
